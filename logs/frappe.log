@@ -1,0 +1,165 @@
+2023-10-10 16:29:25,429 ERROR frappe New Exception collected with id: 2023-10-10 16:29:25.353487-127.0.0.1-073
+Site: site1.local
+Form Dict: {'doc': '{"name":"LMS0001","owner":"Administrator","creation":"2023-10-10 16:23:01.762969","modified":"2023-10-10 16:29:21.304700","modified_by":"Administrator","docstatus":0,"idx":0,"librarymember":"LM0001","full_name":"Ramesh Raja","from_date":"2023-10-01","to_date":"2023-10-31","paid":1,"doctype":"LibraryMembership"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-10 16:31:05,904 ERROR frappe New Exception collected with id: 2023-10-10 16:31:05.894098-127.0.0.1-ed3
+Site: site1.local
+Form Dict: {'doc': '{"name":"LMS0001","owner":"Administrator","creation":"2023-10-10 16:23:01.762969","modified":"2023-10-10 16:29:21.304700","modified_by":"Administrator","docstatus":0,"idx":0,"librarymember":"LM0001","full_name":"Ramesh Raja","from_date":"2023-10-01","to_date":"2023-10-31","paid":1,"doctype":"LibraryMembership","__last_sync_on":"2023-10-10T11:01:02.605Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-10 16:36:25,520 ERROR frappe New Exception collected with id: 2023-10-10 16:36:25.515008-127.0.0.1-58e
+Site: site1.local
+Form Dict: {'doc': '{"name":"LMS0001","owner":"Administrator","creation":"2023-10-10 16:36:22.398117","modified":"2023-10-10 16:36:22.398117","modified_by":"Administrator","docstatus":0,"idx":0,"librarymember":"LM0002","full_name":"Sneha Kumar","from_date":"2023-10-02","to_date":"2023-10-10","paid":1,"amended_from":null,"doctype":"LibraryMembership","__last_sync_on":"2023-10-10T11:06:22.472Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-10 16:39:03,589 ERROR frappe New Exception collected with id: 2023-10-10 16:39:03.582319-127.0.0.1-3c0
+Site: site1.local
+Form Dict: {'doc': '{"name":"LMS0001","owner":"Administrator","creation":"2023-10-10 16:36:22.398117","modified":"2023-10-10 16:36:22.398117","modified_by":"Administrator","docstatus":0,"idx":0,"librarymember":"LM0002","full_name":"Sneha Kumar","from_date":"2023-10-02","to_date":"2023-10-10","paid":1,"doctype":"LibraryMembership","__last_sync_on":"2023-10-10T11:09:01.617Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 11:14:36,631 ERROR frappe New Exception collected with id: 2023-10-11 11:14:36.557660-127.0.0.1-873
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibMembership","name":"new-libmembership-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"full_name":"Ramesh Raja","librarymember":"LM0001","from_date":"2023-10-02","to_date":"2023-10-21"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 11:15:59,629 ERROR frappe New Exception collected with id: 2023-10-11 11:15:59.565271-127.0.0.1-423
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibMembership","name":"new-libmembership-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"full_name":"Ramesh Raja","librarymember":"LM0001","from_date":"2023-10-02","to_date":"2023-10-26"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 11:16:40,538 ERROR frappe New Exception collected with id: 2023-10-11 11:16:40.530679-127.0.0.1-a14
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibMembership","name":"new-libmembership-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":1,"full_name":"Ramesh Raja","librarymember":"LM0001","from_date":"2023-10-02","to_date":"2023-10-26"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 13:08:09,910 ERROR frappe New Exception collected with id: 2023-10-11 13:08:09.255072-127.0.0.1-1c0
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0001","owner":"Administrator","creation":"2023-10-11 13:08:06.189116","modified":"2023-10-11 13:08:06.189116","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0001","full_name":"Ramesh Raja","type":"Return","date":"2023-10-12","amended_from":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T07:38:06.261Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 13:09:46,559 ERROR frappe New Exception collected with id: 2023-10-11 13:09:46.487254-127.0.0.1-770
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0001","owner":"Administrator","creation":"2023-10-11 13:09:43.073948","modified":"2023-10-11 13:09:43.073948","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0001","full_name":"Ramesh Raja","type":"Return","date":"2023-10-25","amended_from":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T07:39:43.177Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 13:13:27,174 ERROR frappe New Exception collected with id: 2023-10-11 13:13:27.085370-127.0.0.1-26c
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0001","owner":"Administrator","creation":"2023-10-11 13:13:24.255168","modified":"2023-10-11 13:13:24.255168","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0001","full_name":"Ramesh Raja","type":"Return","date":"2023-10-24","amended_from":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T07:43:24.350Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:04:14,190 ERROR frappe New Exception collected with id: 2023-10-11 14:04:14.117472-127.0.0.1-0ac
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0001","owner":"Administrator","creation":"2023-10-11 14:04:11.631638","modified":"2023-10-11 14:04:11.631638","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-24","amended_from":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T08:34:11.700Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:07:16,650 ERROR frappe New Exception collected with id: 2023-10-11 14:07:16.580746-127.0.0.1-f25
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0001","owner":"Administrator","creation":"2023-10-11 14:04:11.631638","modified":"2023-10-11 14:04:11.631638","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-24","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T08:37:12.915Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:10:43,409 ERROR frappe New Exception collected with id: 2023-10-11 14:10:43.340690-127.0.0.1-018
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0001","owner":"Administrator","creation":"2023-10-11 14:04:11.631638","modified":"2023-10-11 14:04:11.631638","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-24","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T08:40:38.699Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:11:24,042 ERROR frappe New Exception collected with id: 2023-10-11 14:11:23.969712-127.0.0.1-6ac
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0001","owner":"Administrator","creation":"2023-10-11 14:04:11.631638","modified":"2023-10-11 14:04:11.631638","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-24","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T08:41:15.958Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:25:24,954 ERROR frappe New Exception collected with id: 2023-10-11 14:25:24.881077-127.0.0.1-0ec
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 14:19:26.969379","modified":"2023-10-11 14:19:26.969379","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-31","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T08:55:21.027Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:27:38,574 ERROR frappe New Exception collected with id: 2023-10-11 14:27:38.562583-127.0.0.1-ef5
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 14:19:26.969379","modified":"2023-10-11 14:19:26.969379","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-31","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T08:55:21.027Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:29:10,246 ERROR frappe New Exception collected with id: 2023-10-11 14:29:10.236677-127.0.0.1-604
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 14:19:26.969379","modified":"2023-10-11 14:19:26.969379","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-31","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T08:58:55.486Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:55:20,268 ERROR frappe New Exception collected with id: 2023-10-11 14:55:20.193681-127.0.0.1-2f6
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 14:19:26.969379","modified":"2023-10-11 14:19:26.969379","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-31","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T09:25:16.051Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 14:58:05,203 ERROR frappe New Exception collected with id: 2023-10-11 14:58:05.195431-127.0.0.1-312
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 14:19:26.969379","modified":"2023-10-11 14:19:26.969379","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-31","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T09:28:02.648Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 15:00:28,988 ERROR frappe New Exception collected with id: 2023-10-11 15:00:28.906174-127.0.0.1-cad
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 14:19:26.969379","modified":"2023-10-11 14:19:26.969379","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-31","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T09:30:25.851Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 15:52:49,595 ERROR frappe New Exception collected with id: 2023-10-11 15:52:49.218849-127.0.0.1-f81
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 15:18:00.620452","modified":"2023-10-11 15:18:00.620452","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-26","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T10:22:30.912Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 15:55:52,343 ERROR frappe New Exception collected with id: 2023-10-11 15:55:52.263054-127.0.0.1-770
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 15:18:00.620452","modified":"2023-10-11 15:18:00.620452","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-26","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T10:25:27.972Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 15:58:59,637 ERROR frappe New Exception collected with id: 2023-10-11 15:58:59.171580-127.0.0.1-eb2
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 15:18:00.620452","modified":"2023-10-11 15:18:00.620452","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-26","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T10:25:27.972Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 16:01:10,498 ERROR frappe New Exception collected with id: 2023-10-11 16:01:10.134673-127.0.0.1-843
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 15:18:00.620452","modified":"2023-10-11 15:18:00.620452","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-26","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T10:25:27.972Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 16:04:58,235 ERROR frappe New Exception collected with id: 2023-10-11 16:04:57.864879-127.0.0.1-19d
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 15:18:00.620452","modified":"2023-10-11 15:18:00.620452","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-26","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T10:25:27.972Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 16:14:35,573 ERROR frappe New Exception collected with id: 2023-10-11 16:14:35.274710-127.0.0.1-463
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0002","owner":"Administrator","creation":"2023-10-11 15:18:00.620452","modified":"2023-10-11 15:18:00.620452","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Geronimo Stilton","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","date":"2023-10-26","doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T10:25:27.972Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-11 17:20:53,150 ERROR frappe New Exception collected with id: 2023-10-11 17:20:52.579133-127.0.0.1-771
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0005","owner":"Administrator","creation":"2023-10-11 17:20:37.183346","modified":"2023-10-11 17:20:37.183346","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Issue","amended_from":null,"issue_date":"2023-10-09","return_date":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-11T11:50:37.332Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 12:16:12,434 ERROR frappe New Exception collected with id: 2023-10-12 12:16:12.107964-127.0.0.1-c74
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0005","owner":"Administrator","creation":"2023-10-11 17:20:37.183346","modified":"2023-10-11 17:20:37.183346","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Issue","issue_date":"2023-10-09","doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T06:45:55.819Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 12:18:56,373 ERROR frappe New Exception collected with id: 2023-10-12 12:18:55.907699-127.0.0.1-dd7
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0006","owner":"Administrator","creation":"2023-10-12 12:18:40.152334","modified":"2023-10-12 12:18:40.152334","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-10-31","librarysettings":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T06:48:40.268Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 12:20:58,900 ERROR frappe New Exception collected with id: 2023-10-12 12:20:58.608876-127.0.0.1-e60
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0006","owner":"Administrator","creation":"2023-10-12 12:18:40.152334","modified":"2023-10-12 12:18:40.152334","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-10-31","librarysettings":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T06:48:40.268Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 12:22:09,787 ERROR frappe New Exception collected with id: 2023-10-12 12:22:09.341030-127.0.0.1-d9d
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0006","owner":"Administrator","creation":"2023-10-12 12:18:40.152334","modified":"2023-10-12 12:18:40.152334","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-10-31","librarysettings":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T06:48:40.268Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 12:37:44,123 ERROR frappe New Exception collected with id: 2023-10-12 12:37:43.820813-127.0.0.1-e1e
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0006","owner":"Administrator","creation":"2023-10-12 12:37:01.602627","modified":"2023-10-12 12:37:01.602627","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-10-31","librarysettings":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T07:07:01.841Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 12:43:17,958 ERROR frappe New Exception collected with id: 2023-10-12 12:43:17.530028-127.0.0.1-c18
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0006","owner":"Administrator","creation":"2023-10-12 12:37:01.602627","modified":"2023-10-12 12:37:01.602627","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-10-31","librarysettings":null,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T07:07:01.841Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 12:55:10,300 ERROR frappe New Exception collected with id: 2023-10-12 12:55:09.995363-127.0.0.1-1fe
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0006","owner":"Administrator","creation":"2023-10-12 12:37:01.602627","modified":"2023-10-12 12:37:01.602627","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0002","full_name":"Sneha Kumar","type":"Return","return_date":"2023-10-31","doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T07:14:54.002Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 15:02:20,352 ERROR frappe New Exception collected with id: 2023-10-12 15:02:20.056243-127.0.0.1-38f
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0012","owner":"Administrator","creation":"2023-10-12 15:01:16.479082","modified":"2023-10-12 15:01:16.479082","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0001","full_name":"Ramesh Raja","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-11-30","librarysettings":null,"fee":0,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T09:31:16.754Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-12 15:05:30,340 ERROR frappe New Exception collected with id: 2023-10-12 15:05:30.046163-127.0.0.1-3ac
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0012","owner":"Administrator","creation":"2023-10-12 15:01:16.479082","modified":"2023-10-12 15:01:16.479082","modified_by":"Administrator","docstatus":0,"idx":0,"article":"Goosebumps","librarymember":"LM0001","full_name":"Ramesh Raja","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-11-30","librarysettings":null,"fee":0,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-12T09:31:16.754Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 12:13:20,268 ERROR frappe New Exception collected with id: 2023-10-13 12:13:19.000902-127.0.0.1-b54
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0014","owner":"Administrator","creation":"2023-10-13 12:12:23.018322","modified":"2023-10-13 12:12:23.018322","modified_by":"Administrator","docstatus":0,"idx":0,"article":"The Invisible Man","librarymember":"LM0001","full_name":"Ramesh Raja","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-11-30","librarysettings":null,"custom_fine_topay":0,"fine_amount":0,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-13T06:42:23.121Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 12:15:36,002 ERROR frappe New Exception collected with id: 2023-10-13 12:15:35.897769-127.0.0.1-87a
+Site: site1.local
+Form Dict: {'doc': '{"name":"Transaction0014","owner":"Administrator","creation":"2023-10-13 12:12:23.018322","modified":"2023-10-13 12:12:23.018322","modified_by":"Administrator","docstatus":0,"idx":0,"article":"The Invisible Man","librarymember":"LM0001","full_name":"Ramesh Raja","type":"Return","amended_from":null,"issue_date":null,"return_date":"2023-11-30","librarysettings":null,"custom_fine_topay":0,"fine_amount":0,"doctype":"LibraryTransaction","__last_sync_on":"2023-10-13T06:42:23.121Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:20:12,946 ERROR frappe New Exception collected with id: 2023-10-13 14:20:12.681334-127.0.0.1-bf1
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-1","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Issue","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","issue_date":"2023-11-03"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:21:42,418 ERROR frappe New Exception collected with id: 2023-10-13 14:21:42.229907-127.0.0.1-133
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-1","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Issue","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","issue_date":"2023-11-03"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:34:24,260 ERROR frappe New Exception collected with id: 2023-10-13 14:34:23.973523-127.0.0.1-3e2
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:37:27,149 ERROR frappe New Exception collected with id: 2023-10-13 14:37:26.879388-127.0.0.1-6cf
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:40:15,771 ERROR frappe New Exception collected with id: 2023-10-13 14:40:15.456967-127.0.0.1-f2a
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:41:01,131 ERROR frappe New Exception collected with id: 2023-10-13 14:41:00.834842-127.0.0.1-fc2
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:42:03,554 ERROR frappe New Exception collected with id: 2023-10-13 14:42:03.504128-127.0.0.1-d58
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:43:07,410 ERROR frappe New Exception collected with id: 2023-10-13 14:43:07.352041-127.0.0.1-0b6
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:44:30,286 ERROR frappe New Exception collected with id: 2023-10-13 14:44:30.236396-127.0.0.1-828
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:45:50,718 ERROR frappe New Exception collected with id: 2023-10-13 14:45:50.442850-127.0.0.1-8d1
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:47:14,244 ERROR frappe New Exception collected with id: 2023-10-13 14:47:14.021779-127.0.0.1-acf
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:48:17,200 ERROR frappe New Exception collected with id: 2023-10-13 14:48:17.148623-127.0.0.1-259
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:49:12,524 ERROR frappe New Exception collected with id: 2023-10-13 14:49:12.467346-127.0.0.1-f9d
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 14:51:32,533 ERROR frappe New Exception collected with id: 2023-10-13 14:51:32.271344-127.0.0.1-706
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibraryTransaction","name":"new-librarytransaction-3","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Return","article":"The Invisible Man","full_name":"Sneha Kumar","librarymember":"LM0002","return_date":"2023-11-30"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 15:37:56,792 ERROR frappe New Exception collected with id: 2023-10-13 15:37:56.466505-127.0.0.1-dee
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibMembership","name":"new-libmembership-2","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":0,"librarymember":"LM0003","full_name":"anjaan aakash","from_date":"2023-10-02"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 15:38:48,092 ERROR frappe New Exception collected with id: 2023-10-13 15:38:48.060777-127.0.0.1-a46
+Site: site1.local
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LibMembership","name":"new-libmembership-1","__islocal":1,"__unsaved":1,"owner":"Administrator","type":"Silver","paid":0,"full_name":"anjaan aakash","librarymember":"LM0003","from_date":"2023-10-01"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2023-10-13 16:01:39,276 ERROR frappe New Exception collected with id: 2023-10-13 16:01:39.061066-127.0.0.1-77c
+Site: site1.local
+Form Dict: {'txt': '', 'doctype': 'LibrarySettings', 'ignore_user_permissions': '0', 'reference_doctype': 'LibMembership', 'cmd': 'frappe.desk.search.search_link'}

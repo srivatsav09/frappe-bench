@@ -1,0 +1,18 @@
++--------------+--------------+------+-----+---------+-------+
+| Field        | Type         | Null | Key | Default | Extra |
++--------------+--------------+------+-----+---------+-------+
+| name         | varchar(140) | NO   | PRI | NULL    |       |
+| creation     | datetime(6)  | YES  |     | NULL    |       |
+| modified     | datetime(6)  | YES  | MUL | NULL    |       |
+| modified_by  | varchar(140) | YES  |     | NULL    |       |
+| owner        | varchar(140) | YES  |     | NULL    |       |
+| docstatus    | int(1)       | NO   |     | 0       |       |
+| idx          | int(8)       | NO   |     | 0       |       |
+| name1        | varchar(140) | YES  |     | NULL    |       |
+| name_of_book | varchar(140) | YES  |     | NULL    |       |
+| buy_date     | varchar(140) | YES  |     | NULL    |       |
+| _user_tags   | text         | YES  |     | NULL    |       |
+| _comments    | text         | YES  |     | NULL    |       |
+| _assign      | text         | YES  |     | NULL    |       |
+| _liked_by    | text         | YES  |     | NULL    |       |
++--------------+--------------+------+-----+---------+-------+

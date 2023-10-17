@@ -1,0 +1,559 @@
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+fatal: No remote configured to list refs from.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+fatal: No remote configured to list refs from.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+Traceback (most recent call last):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 427, in read_from_socket
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+    bufflen = recv_into(self._sock, self._buffer)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/_compat.py", line 75, in recv_into
+    return sock.recv_into(*args, **kwargs)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 268, in start_worker
+    worker.work(
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 644, in work
+    self.register_death()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 344, in register_death
+    p.execute()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 4019, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3894, in _execute_transaction
+    self.parse_response(connection, '_')
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3977, in parse_response
+    result = Redis.parse_response(
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 915, in parse_response
+    response = connection.read_response()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 470, in read_response
+    self.read_from_socket()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 452, in read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: (104, 'Connection reset by peer')
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+fatal: No remote configured to list refs from.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/home/sriva/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+fatal: No remote configured to list refs from.
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 268, in start_worker
+    worker.work(
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 613, in work
+    self.execute_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 873, in execute_job
+    self.fork_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 782, in fork_work_horse
+    self.main_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 908, in main_work_horse
+    self.perform_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1075, in perform_job
+    rv = job.perform()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 854, in perform
+    self._result = self._execute()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 877, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 192, in execute_job
+    retval = method(**kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 135, in update_index_for_path
+    return ws.update_index_by_name(path)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/full_text_search.py", line 53, in update_index_by_name
+    document = self.get_document_to_index(doc_name)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 66, in get_document_to_index
+    content = get_response_content(route)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 32, in get_response_content
+    response = get_response(path, http_status_code)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 17, in get_response
+    endpoint, renderer_instance = path_resolver.resolve()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/path_resolver.py", line 59, in resolve
+    if renderer_instance.can_render():
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/page_renderers/print_page.py", line 14, in can_render
+    if frappe.db.exists("DocType", parts[0], True) and frappe.db.exists(parts[0], parts[1], True):
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 1111, in exists
+    return self.get_value(dt, dn, ignore=True, cache=cache)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 509, in get_value
+    result = self.get_values(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 606, in get_values
+    out = self._get_values_from_table(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 835, in _get_values_from_table
+    return query.run(as_dict=as_dict, debug=debug, update=update, run=run, pluck=pluck)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 248, in sql
+    traceback.print_stack()
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 268, in start_worker
+    worker.work(
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 613, in work
+    self.execute_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 873, in execute_job
+    self.fork_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 782, in fork_work_horse
+    self.main_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 908, in main_work_horse
+    self.perform_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1075, in perform_job
+    rv = job.perform()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 854, in perform
+    self._result = self._execute()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 877, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 192, in execute_job
+    retval = method(**kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 135, in update_index_for_path
+    return ws.update_index_by_name(path)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/full_text_search.py", line 53, in update_index_by_name
+    document = self.get_document_to_index(doc_name)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 66, in get_document_to_index
+    content = get_response_content(route)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 32, in get_response_content
+    response = get_response(path, http_status_code)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 17, in get_response
+    endpoint, renderer_instance = path_resolver.resolve()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/path_resolver.py", line 59, in resolve
+    if renderer_instance.can_render():
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/page_renderers/print_page.py", line 14, in can_render
+    if frappe.db.exists("DocType", parts[0], True) and frappe.db.exists(parts[0], parts[1], True):
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 1111, in exists
+    return self.get_value(dt, dn, ignore=True, cache=cache)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 509, in get_value
+    result = self.get_values(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 606, in get_values
+    out = self._get_values_from_table(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 835, in _get_values_from_table
+    return query.run(as_dict=as_dict, debug=debug, update=update, run=run, pluck=pluck)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 248, in sql
+    traceback.print_stack()
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 268, in start_worker
+    worker.work(
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 613, in work
+    self.execute_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 873, in execute_job
+    self.fork_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 782, in fork_work_horse
+    self.main_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 908, in main_work_horse
+    self.perform_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1075, in perform_job
+    rv = job.perform()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 854, in perform
+    self._result = self._execute()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 877, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 192, in execute_job
+    retval = method(**kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 135, in update_index_for_path
+    return ws.update_index_by_name(path)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/full_text_search.py", line 53, in update_index_by_name
+    document = self.get_document_to_index(doc_name)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 66, in get_document_to_index
+    content = get_response_content(route)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 32, in get_response_content
+    response = get_response(path, http_status_code)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 17, in get_response
+    endpoint, renderer_instance = path_resolver.resolve()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/path_resolver.py", line 59, in resolve
+    if renderer_instance.can_render():
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/page_renderers/print_page.py", line 14, in can_render
+    if frappe.db.exists("DocType", parts[0], True) and frappe.db.exists(parts[0], parts[1], True):
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 1111, in exists
+    return self.get_value(dt, dn, ignore=True, cache=cache)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 509, in get_value
+    result = self.get_values(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 606, in get_values
+    out = self._get_values_from_table(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 835, in _get_values_from_table
+    return query.run(as_dict=as_dict, debug=debug, update=update, run=run, pluck=pluck)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 248, in sql
+    traceback.print_stack()
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 268, in start_worker
+    worker.work(
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 613, in work
+    self.execute_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 873, in execute_job
+    self.fork_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 782, in fork_work_horse
+    self.main_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 908, in main_work_horse
+    self.perform_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1075, in perform_job
+    rv = job.perform()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 854, in perform
+    self._result = self._execute()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 877, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 192, in execute_job
+    retval = method(**kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 135, in update_index_for_path
+    return ws.update_index_by_name(path)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/full_text_search.py", line 53, in update_index_by_name
+    document = self.get_document_to_index(doc_name)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 66, in get_document_to_index
+    content = get_response_content(route)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 32, in get_response_content
+    response = get_response(path, http_status_code)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 17, in get_response
+    endpoint, renderer_instance = path_resolver.resolve()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/path_resolver.py", line 59, in resolve
+    if renderer_instance.can_render():
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/page_renderers/print_page.py", line 14, in can_render
+    if frappe.db.exists("DocType", parts[0], True) and frappe.db.exists(parts[0], parts[1], True):
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 1111, in exists
+    return self.get_value(dt, dn, ignore=True, cache=cache)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 509, in get_value
+    result = self.get_values(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 606, in get_values
+    out = self._get_values_from_table(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 835, in _get_values_from_table
+    return query.run(as_dict=as_dict, debug=debug, update=update, run=run, pluck=pluck)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 248, in sql
+    traceback.print_stack()
+/home/sriva/frappe-bench/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+    main()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    click.Group(commands=commands)(prog_name="bench")
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 268, in start_worker
+    worker.work(
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 613, in work
+    self.execute_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 873, in execute_job
+    self.fork_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 782, in fork_work_horse
+    self.main_work_horse(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 908, in main_work_horse
+    self.perform_job(job, queue)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1075, in perform_job
+    rv = job.perform()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 854, in perform
+    self._result = self._execute()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 877, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 192, in execute_job
+    retval = method(**kwargs)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 135, in update_index_for_path
+    return ws.update_index_by_name(path)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/full_text_search.py", line 53, in update_index_by_name
+    document = self.get_document_to_index(doc_name)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/search/website_search.py", line 66, in get_document_to_index
+    content = get_response_content(route)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 32, in get_response_content
+    response = get_response(path, http_status_code)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/serve.py", line 17, in get_response
+    endpoint, renderer_instance = path_resolver.resolve()
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/path_resolver.py", line 59, in resolve
+    if renderer_instance.can_render():
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/website/page_renderers/print_page.py", line 14, in can_render
+    if frappe.db.exists("DocType", parts[0], True) and frappe.db.exists(parts[0], parts[1], True):
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 1111, in exists
+    return self.get_value(dt, dn, ignore=True, cache=cache)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 509, in get_value
+    result = self.get_values(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 606, in get_values
+    out = self._get_values_from_table(
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 835, in _get_values_from_table
+    return query.run(as_dict=as_dict, debug=debug, update=update, run=run, pluck=pluck)
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/sriva/frappe-bench/apps/frappe/frappe/database/database.py", line 248, in sql
+    traceback.print_stack()
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/sriva/frappe-bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
